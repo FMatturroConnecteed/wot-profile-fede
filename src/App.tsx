@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Tankpedia from './Tankpedia';
 import Accounts from './Accounts';
 import Nav from './Nav';

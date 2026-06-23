@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function Nav() {
   return (
     <nav className="fixed w-full bg-gray-800 border-b border-gray-700 p-4">

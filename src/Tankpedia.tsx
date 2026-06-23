@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import Nav from './Nav';
+import { useEffect, useState } from 'react';
 
 type Section = {
   id: string;
